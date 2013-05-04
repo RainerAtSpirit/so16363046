@@ -1,6 +1,6 @@
 ﻿define(['durandal/plugins/router', 'global'],
 function (router, global) {
-    var someValue = ko.observable('');
+   // var someValue = ko.observable('');
 
     var shell = {
         router: router,
